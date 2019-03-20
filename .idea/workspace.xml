@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73ccdec0-91ac-4520-887a-28ae9eafbc03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,38 +17,50 @@
         <counts>
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="20" />
-          <entry key="txt" value="48" />
+          <entry key="md" value="22" />
+          <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="68" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,6 +107,12 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="star" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="1.3.20" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -110,6 +129,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\app\star\1.3.20" />
       <recent name="G:\app\tech\1.0.2" />
     </key>
   </component>
@@ -178,14 +198,22 @@
       <option name="project" value="LOCAL" />
       <updated>1552974363355</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;最新用户端APP版本">
+      <created>1553048495699</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553048495699</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1544" height="913" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3526245" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35733512" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -210,13 +238,14 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;考研星球，最新1.3.14" />
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;欧几里得，最新1.0.2" />
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新文档说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新文档说明" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;最新用户端APP版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;最新用户端APP版本" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
