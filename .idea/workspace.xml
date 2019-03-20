@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73ccdec0-91ac-4520-887a-28ae9eafbc03" name="Default Changelist" comment="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新文档说明">
-      <change afterPath="$PROJECT_DIR$/tech/1.0.3/euclid-1.0.3.apk" afterDir="false" />
+    <list default="true" id="73ccdec0-91ac-4520-887a-28ae9eafbc03" name="Default Changelist" comment="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新学生端，老师端">
+      <change afterPath="$PROJECT_DIR$/tech/1.0.3/euclid-1.0.3.1.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/star/1.3.20/kaoyanxingqiu-1.3.20.apk" beforeDir="false" afterPath="$PROJECT_DIR$/star/1.3.20/kaoyanxingqiu-1.3.20.apk" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,35 +16,35 @@
     <session id="-1144105179">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="25" />
-          <entry key="txt" value="64" />
+          <entry key="md" value="28" />
+          <entry key="txt" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="Markdown" value="8" />
+          <entry key="PLAIN_TEXT" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -56,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            <state relative-caret-position="190">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -119,12 +118,6 @@
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="tech" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="1.0.2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="app" type="b2602c69:ProjectViewProjectNode" />
@@ -232,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553048518236</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新学生端，老师端">
+      <created>1553056033901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553056033901</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -240,7 +240,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.35733512" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.36204576" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -266,13 +266,14 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;欧几里得，最新1.0.2" />
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;最新用户端APP版本" />
     <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新文档说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新文档说明" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新学生端，老师端" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/moonlight2012/app&#10;&#10;更新学生端，老师端" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="190">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
